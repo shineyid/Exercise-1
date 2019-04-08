@@ -1,0 +1,17 @@
+
+body {
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+      }
+.row {margin: 10px;}
+.container {
+        position: relative;
+        text-align: left;
+      }
+
+
+.card {
+        background-color: pink;
+        padding: 20px;
+        margin-top: 20px;
+        width: 200px;
+      }
